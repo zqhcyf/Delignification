@@ -1,0 +1,193 @@
+Type; Rate;type; Temperature(℃); Time(h);Solid loading(wt%); Ligin Delignification(%)
+ cholinechloride:acetic acid1:6;Akebia herbal residue;120;8;10;34
+ cholinechloride:diethanolamine 1:8;Wheat straw;90;12;5;74
+ cholinechloride:formic acid1:2;Akebia herbal residue;120;8;10;41
+ cholinechloride:glucose 1:1;Oil palm empty fruit bunch;120;8;10;17
+cholinechloride:  methyldiethanolamine 1:10;Wheat straw;90;12;5;45
+cholinechloride: 4-hydroxybenzyl alcohol1；1;Switchgrass;160;3;10;0.4
+cholinechloride: diethanolamine (1:8);wheat straw;90;10;10;73
+cholinechloride: monoethanolamine  1:6;Wheat straw;90;12;5;81
+cholinechloride: monoethanolamine (1:6);wheat straw;90;10;10;81
+cholinechloride: monoethanolamine (1:6);Wheat straw;90;12;10;81
+cholinechloride:1,2-propanediol (1:1);Rice straw;80;6;5;26.5
+cholinechloride:1,3-propanediol (1:1);Rice straw;80;6;5;29.2
+cholinechloride:4-hydroxybenzyl alcohol 1:1;Switchgrass;100;12;0.5;6.5
+cholinechloride:acetamide (1:2);Wheat straw;90;12;5;3.4
+cholinechloride:acetamide 1:2;Wheat straw;90;12;5;3
+cholinechloride:acetic acid (1:2);Castor seed coxalic acidts;160;8;10;31
+cholinechloride:acetic acid (1:6); Akebia herba;120;6;6.25;34
+cholinechloride:catechol (1:1);Switchgrass;160;3;5;49
+cholinechloride:Catechol 1:1;Switchgrass;100;12;0.5;49
+cholinechloride:citric acid (1:1);Oil palm empty fruit bunch;120;8;10;20.6
+cholinechloride:diethanolamine (1:8);Wheat straw;90;12;5;73.5
+cholinechloride:diethanolamine (1:8);wheat straw;90;12;5;73.5
+cholinechloride:ethylene glyco (1:2);Poplar;130;0.5;20;78.9
+cholinechloride:ethylene glyco (1:2);Poplar;130;0.6;27;74.55
+cholinechloride:ethylene glycol (1:2);Corncob;90;14;10;88
+cholinechloride:Ethylene glycol 1:1;Corncob;90;48;5;87.6
+cholinechloride:ethylene glycol 1:2;Switchgrass;130;0.5;10;24
+cholinechloride:ethylene glycol1:2;Corncob;90;24;5;88
+cholinechloride:formamide (1:1);Rice straw;120;6;5;45.8
+cholinechloride:formic acid (1:2); Akebia herba;120;6;6.25;41
+cholinechloride:formic acid (1:2);Oil palm empty fruit bunch;120;8;10;50
+cholinechloride:formic acid (1:2);Castor seed coxalic acidts;160;8;10;33
+cholinechloride:formic acid (1:2);Corn stover;130;2;5;23.8
+cholinechloride:formic acid (1:2);Akebia' herbal residues;120;8;5;40.7
+cholinechloride:GA (1:4);Akebia' herbal residues;120;8;10;58.4
+cholinechloride:glucose (1:1);Oil palm empty fruit bunch;120;6;5;17
+cholinechloride:glucose (1:1);Oil palm empty fruit bunch;120;8;10;17
+cholinechloride:glutaric acid (1:1);Corncob;90;8;5;34
+cholinechloride:glutaric acid (1:1);Corncob;90;24;5;34.3
+cholinechloride:Glutaric acid 1:1;Corncob;90;48;5;34.3
+cholinechloride:glutaric acid1:1;Wheat straw;90;24;5;34
+cholinechloride:glutaricacid (2:1);Poplar;140;3;5;50
+cholinechloride:glycerol (1:2);Corncob;90;14;10;71
+cholinechloride:glycerol (1:2);Oil palm empty fruit bunch;120;6;5;22
+cholinechloride:glycerol (1:2);Corncob;90;24;5;71.3
+cholinechloride:glycerol (1:2);Switchgrass;110;1;10;76.6
+cholinechloride:glycerol (1:2);Wheat straw;90;12;5;24.7
+cholinechloride:glycerol (1:2);Castor seed coxalic acidts;160;8;10;4
+cholinechloride:Glycerol 1:1;Corncob;90;48;5;71.3
+cholinechloride:Glycerol 1:32;Apple residues;150;3;5;62
+cholinechloride:Glycerol 1:32;Potato peels;150;3;5;33
+cholinechloride:Glycerol 7:3;Corncob;115;15;6.25;4.4
+cholinechloride:glycerol:lactic acid;Wheat straw;120;0.5;2;45
+cholinechloride:glycerol1:2;Oil palm empty fruit bunch;120;8;10;22
+cholinechloride:glycerol1:2;Corncob;90;24;5;71
+cholinechloride:glycerol1:2;Oil palm empty fruit bunch;100;48;5;49
+cholinechloride:glycol (1:1);Rice straw;120;6;5;26.16
+cholinechloride:glycol (1:2);Corncob;90;24;5;87.6
+cholinechloride:glycol (1:2);Castor seed coxalic acidts;160;8;10;8
+cholinechloride:glycol (1:2);Corncob;90;24;5;87.6
+cholinechloride:glycol (1:2);Corncob;150;15;6.25;59
+cholinechloride:glycol (1:2);Corn stover;180;2;10;60
+cholinechloride:glycol (1:2) a;Switchgrass;110;1;10;76.6
+cholinechloride:glycol (1:2) b;Switchgrass;130;0.5;10;78.9
+cholinechloride:glycolic acid (1:2);Corncob;90;8;5;56
+cholinechloride:glycolic acid (1:2);Corncob;90;24;5;56.4
+cholinechloride:glycolic acid (1:4); Akebia herba;120;6;6.25;58
+cholinechloride:glycolic acid1:2;Wheat straw;90;24;5;56
+cholinechloride:Glycolic acid1:2;Corncob;90;48;5;56.4
+cholinechloride:glycolic acid1:4;Akebia herbal residue;120;8;5;58
+cholinechloride:imidazole (3:7);Populus;115;3;5;26.5
+cholinechloride:imidazole (3:7);Populus;150;3;5;59.6
+cholinechloride:imidazole (3:7);populus;115;3;6.25;31.1
+cholinechloride:imidazole (3:7);populus;150;3;6.25;59.6
+cholinechloride:imidazole (3:7);Corncob;115;15;6.25;76.7
+cholinechloride:Imidazole 1:2;Corncob;115;15;6.25;70
+cholinechloride:Imidazole1:2;Corncob;150;15;6.25;88
+cholinechloride:lactic acid (1:10);Corncob;90;8;5;86
+cholinechloride:lactic acid (1:10);Corncob;90;24;5;86.1
+cholinechloride:lactic acid (1:10);Poplar;110;1.5;10;51.5
+cholinechloride:lactic acid (1:10);Poplar;130;1.5;10;89.3
+cholinechloride:lactic acid (1:10);Willow;120;12;10;91.8
+cholinechloride:lactic acid (1:10);Eucalyptus globulus;130;6;10;93.2
+cholinechloride:lactic acid (1:10);Cunninghamia;120;12;3.3;81.73
+cholinechloride:lactic acid (1:15);Corncob;90;8;5;93
+cholinechloride:lactic acid (1:15);Bagasse;90;8;5;93.1
+cholinechloride:lactic acid (1:15);Corncob;90;24;5;93.1
+cholinechloride:lactic acid (1:15);Oil palm empty fruit bunch;120;8;10;61
+cholinechloride:lactic acid (1:15);Corncob;90;24;5;93.1
+cholinechloride:lactic acid (1:2);Bagasse;90;8;5;65
+cholinechloride:lactic acid (1:2);Corncob;90;8;6.25;64.7
+cholinechloride:lactic acid (1:2);Douglactic acids fir;145;6;10;58.2
+cholinechloride:lactic acid (1:2);Poplactic acidr;145;6;10;78.5
+cholinechloride:lactic acid (1:2);Sorghum;145;6;10;78
+cholinechloride:lactic acid (1:2);Walnut endocarps cells;145;6;10;64.3
+cholinechloride:lactic acid (1:2);Peach endocarp cells;145;6;10;70.2
+cholinechloride:lactic acid (1:2);Corncob;90;24;5;64.7
+cholinechloride:lactic acid (1:2);Poplar;110;4.5;10;31.1
+cholinechloride:lactic acid (1:2);Poplar;130;1.5;10;66.4
+cholinechloride:lactic acid (1:2);Wheat straw;120;12;10;78.6
+cholinechloride:lactic acid (1:2);Corn straw;120;6;5;51.84
+cholinechloride:lactic acid (1:2);Castor seed coxalic acidts;160;8;10;34
+cholinechloride:lactic acid (1:2);Poplar;120;6;5;95
+cholinechloride:lactic acid (1:2);Corncob;90;24;5;64.7
+cholinechloride:lactic acid (1:2);Poplar;145;6;10;78.5
+cholinechloride:lactic acid (1:5);Oil palm empty fruit bunch;120;6;5;88
+cholinechloride:lactic acid (1:5);Corncob;90;8;5;78
+cholinechloride:lactic acid (1:5);Rice straw;60;12;5;60
+cholinechloride:lactic acid (1:5);Corncob;90;24;10;77.9
+cholinechloride:lactic acid (1:5);Oil palm empty fruit bunch;120;8;10;88
+cholinechloride:lactic acid (1:5);Rice straw;60;12;5;60
+cholinechloride:lactic acid (1:5);Oil palm empty fruit bunch;120;8;10;88
+cholinechloride:Lactic acid 1:10;Corncob;90;48;5;86.1
+cholinechloride:Lactic acid 1:10;Rice straw;60;0.33;5;29.1
+cholinechloride:Lactic acid 1:10;Wheat straw;60;0.33;5;87.9
+cholinechloride:Lactic acid 1:15;Corncob;90;48;5;93.1
+cholinechloride:Lactic acid 1:2;Corncob;90;48;5;64.7
+cholinechloride:lactic acid 1:5;Oil palm empty fruit bunch;120;8;10;88
+cholinechloride:Lactic acid 1:5;Corncob;90;48;5;77.9
+cholinechloride:Lactic acid 1:5;Rice straw;60;12;10;60
+cholinechloride:Lactic acid 1:9;Rice straw;60;12;10;59
+cholinechloride:Lactic acid 1:9;Wheat straw;60;0.33;5;14.6
+cholinechloride:lactic acid(1:10);Eucalyptus;110;6;10;80
+cholinechloride:lactic acid(1:10);Willow;120;12;10;91.8
+cholinechloride:lactic acid(1:2);Walnut endocarps;145;6;11;70.2
+cholinechloride:lactic acid(1:5);Sugarcane bagasse;80;12;5;50.6
+cholinechloride:lactic acid(1:9);Poplar;120;6;10;98.1
+cholinechloride:lactic acid1:10;Wheat straw;90;24;5;86
+cholinechloride:lactic acid1:15;Wheat straw;90;24;5;93
+cholinechloride:lactic acid1:2;Poplar wood;90;6;10;25
+cholinechloride:lactic acid1:2;Poplar wood;120;3;10;72
+cholinechloride:lactic acid1:2;Poplar wood;145;9;10;79
+cholinechloride:lactic acid1:2;Wheat straw;90;24;5;65
+cholinechloride:Lactic acid1:2;Rice straw;60;12;10;51
+cholinechloride:lactic acid1:5;Wheat straw;90;24;5;78
+cholinechloride:levulinic acid (1:2);Corncob;90;8;5;43
+cholinechloride:levulinic acid (1:2);Corncob;90;24;5;43
+cholinechloride:levulinic acid (1:4); Akebia herba;120;6;6.25;20
+cholinechloride:Levulinic acid 1:2;Corncob;90;48;5;43
+cholinechloride:levulinic acid1:2;Wheat straw;90;24;5;43
+cholinechloride:levulinic acid1:4;Akebia herbal residue;120;8;5;20
+cholinechloride:malic acid (1:1);Corncob;90;8;5;22
+cholinechloride:malic acid (1:2);Corncob;90;24;5;22.4
+cholinechloride:Malic acid 1:1;Rice straw;90;48;5;22.4
+cholinechloride:Malic acid 1:1;Wheat straw;80;0.66;5;21.6
+cholinechloride:malic acid1:1;Wheat straw;90;24;5;22
+cholinechloride:malonic acid (1:1);Corncob;90;8;5;57
+cholinechloride:Malonic acid 1:1;Corncob;90;48;6.25;56.5
+cholinechloride:Malonic acid 1:1;Wheat straw;60;0.33;5;3.8
+cholinechloride:malonic acid1:1;Wheat straw;90;24;5;57
+cholinechloride:malonicacid  (1:1);Rice straw;80;6;5;51.3
+cholinechloride:malonicacid  (1:1);Castor seed coxalic acidts;160;8;10;3
+cholinechloride:malonicacid (1:1);Corncob;90;24;5;56.5
+cholinechloride:methyldiethanolamine (1:10);Wheat straw;90;12;5;44.6
+cholinechloride:monoethanolamine (1:6);Wheat straw;90;12;5;81
+cholinechloride:ox (1:1);birch;120;24;6;51
+cholinechloride:ox:glrol (1:1:2);birch;80;24;6;61.4
+cholinechloride:ox:glrol (1:1:2);birch;120;24;6;68.5
+cholinechloride:oxalic acid (1:1);Corncob;90;8;5;88
+cholinechloride:oxalic acid (1:1);corncob;90;10;5;95.5
+cholinechloride:oxalic acid (1:1);Corncob;90;24;5;98.5
+cholinechloride:oxalic acid (1:1);Corncob;90;24;6.25;99.5
+cholinechloride:oxalic acid (1:2);Rice straw;120;1;5;75.9
+cholinechloride:Oxalic acid 1:1;Corncob;90;48;5;98.5
+cholinechloride:oxalic acid1:1;Wheat straw;90;24;5;99
+cholinechloride:PB (3:2);Poplar;160;3;10;69
+cholinechloride:p-coumaric acid (1:1);Switchgrass;160;3;5;60.8
+cholinechloride:p-coumaric acid (1:1);Poplar;160;3;10;15.5
+cholinechloride:p-coumaric acid (1:1);Cortex albiziae;160;7;10;30.79
+cholinechloride:p-coumaric acid (1:1);Cortex albiziae;180;7;10;64.03
+cholinechloride:p-coumaric acid (1:1);Switchgrass;160;3;10;60.8
+cholinechloride:p-coumaric acid 1:1;Switchgrass;100;12;0.5;60.8
+cholinechloride:p-coumaric acid 1；1;Switchgrass;160;3;10;61
+cholinechloride:PHA (1:2);Arabidopsis thaliana mutant;80;3;5;32.4
+cholinechloride:PHA (1:2);Poplar;160;3;10;30.7
+cholinechloride:propionic acid (1:2);Oil palm empty fruit bunch;120;8;10;20.4
+cholinechloride:succinic acid (1:1);Oil palm empty fruit bunch;120;8;10;10.7
+cholinechloride:tartaric acid:lactic acid (1:1:4);Pinus pinaster Ait.;150;2;10;95
+cholinechloride:urea (1:2);Populus;115;3;5;31.1
+cholinechloride:urea (1:2);Oil palm empty fruit bunch;120;8;10;34
+cholinechloride:urea (1:2);Wheat straw;90;12;5;27.7
+cholinechloride:Urea (1:2);Corncob;80;15;6.25;27.1
+cholinechloride:Urea (1:2);Rice straw;130;8;10;44.7
+cholinechloride:urea 1:2;Oil palm empty fruit bunch;120;8;5;34
+cholinechloride:urea 1:2;Wheat straw;90;12;5;28
+cholinechloride:urea 1:2;populus;115;3;6.25;26.5
+cholinechloride:Urea1:2;Corncob;115;15;6.25;24.8
+cholinechloride:vanillin (1:2);Switchgrass;160;3;5;52.5
+cholinechloride:vanillin (1:2);Arabidopsis thaliana mutant;80;3;5;24.6
+cholinechloride:vanillin 1：2;Switchgrass;160;3;10;53
+cholinechloride:Vanillin 1:2;Switchgrass;100;12;0.5;52.5
+chloride:ethylene glycol1:2;Oil palm empty fruit bunch;100;48;5;36
